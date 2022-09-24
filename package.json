@@ -1,0 +1,10 @@
+{
+    "name": "telegram-score-bot",
+    "author": "Gilgames <gilgames@heroesvale.com>",
+    "license": "AGPL-3.0-only",
+    "type": "module",
+    "devDependencies": {
+        "dotenv": "^16.0.1",
+        "telegraf": "^4.8.5"
+    }
+}
